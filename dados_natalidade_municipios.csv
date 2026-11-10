@@ -1,0 +1,94 @@
+codigo_ibge,municipio,uf,regiao,populacao,nascidos_vivos,tbn,idhm,grau_urbanizacao,faixa_porte,classificacao_tbn
+1400050,Uiramutã,RR,Norte,11400,312,27.37,0.453,21.4,Pequeno,Elevada
+1300201,Atalaia do Norte,AM,Norte,15300,387,25.29,0.450,35.8,Pequeno,Elevada
+1200328,Jordão,AC,Norte,9200,228,24.78,0.469,42.1,Pequeno,Elevada
+1303809,Santa Isabel do Rio Negro,AM,Norte,25800,593,22.98,0.479,48.0,Médio,Elevada
+1500800,Anajás,PA,Norte,29500,635,21.53,0.484,29.5,Médio,Elevada
+1501402,Belém,PA,Norte,1303389,18768,14.40,0.746,98.8,Grande,Média-Alta
+1302603,Manaus,AM,Norte,2063547,33429,16.20,0.737,99.4,Grande,Média-Alta
+1100205,Porto Velho,RO,Norte,460413,7412,16.10,0.736,89.2,Grande,Média-Alta
+1600303,Macapá,AP,Norte,442933,7884,17.80,0.733,96.5,Grande,Elevada
+1400100,Boa Vista,RR,Norte,413486,8352,20.20,0.752,97.2,Grande,Elevada
+1721000,Palmas,TO,Norte,302692,4389,14.50,0.788,98.4,Grande,Média-Alta
+1506807,Santarém,PA,Norte,331937,5211,15.70,0.691,73.1,Grande,Média-Alta
+1504208,Marabá,PA,Norte,266536,4850,18.20,0.668,85.0,Grande,Elevada
+1505536,Parauapebas,PA,Norte,267359,4785,17.90,0.715,93.3,Grande,Elevada
+1100049,Cacoal,RO,Norte,86895,1042,12.00,0.718,79.2,Médio,Média-Baixa
+1709500,Gurupi,TO,Norte,87596,1121,12.80,0.759,96.3,Médio,Média-Baixa
+1100122,Ji-Paraná,RO,Norte,124333,1641,13.20,0.714,90.1,Grande,Média-Alta
+1718204,Porto Nacional,TO,Norte,64498,890,13.80,0.740,88.5,Médio,Média-Alta
+2101202,Bacabal,MA,Nordeste,103711,1680,16.20,0.627,76.5,Grande,Média-Alta
+2111300,São Luís,MA,Nordeste,1037775,14736,14.20,0.768,94.6,Grande,Média-Alta
+2211001,Teresina,PI,Nordeste,866300,11868,13.70,0.751,94.3,Grande,Média-Alta
+2304400,Fortaleza,CE,Nordeste,2428678,29872,12.30,0.754,99.8,Grande,Média-Baixa
+2408102,Natal,RN,Nordeste,751300,8790,11.70,0.763,99.9,Grande,Média-Baixa
+2507507,João Pessoa,PB,Nordeste,833932,9840,11.80,0.763,99.6,Grande,Média-Baixa
+2611606,Recife,PE,Nordeste,1488920,17271,11.60,0.772,100.0,Grande,Média-Baixa
+2704302,Maceió,AL,Nordeste,957916,12357,12.90,0.721,99.8,Grande,Média-Baixa
+2800308,Aracaju,SE,Nordeste,602757,7474,12.40,0.770,99.8,Grande,Média-Baixa
+2927408,Salvador,BA,Nordeste,2417678,27561,11.40,0.759,99.9,Grande,Média-Baixa
+2910800,Feira de Santana,BA,Nordeste,616279,7888,12.80,0.712,92.4,Grande,Média-Baixa
+2604106,Caruaru,PE,Nordeste,378052,4839,12.80,0.677,89.2,Grande,Média-Baixa
+2504009,Campina Grande,PB,Nordeste,419379,4948,11.80,0.720,95.1,Grande,Média-Baixa
+2307304,Juazeiro do Norte,CE,Nordeste,286120,3862,13.50,0.694,95.6,Grande,Média-Alta
+2611101,Petrolina,PE,Nordeste,386786,5724,14.80,0.697,76.5,Grande,Média-Alta
+2312908,Sobral,CE,Nordeste,203062,2721,13.40,0.714,88.4,Grande,Média-Alta
+2100055,Centro Novo do Maranhão,MA,Nordeste,22100,442,20.00,0.540,45.0,Médio,Elevada
+2200053,Acauã,PI,Nordeste,7100,83,11.69,0.536,18.2,Pequeno,Média-Baixa
+2503902,Camalaú,PB,Nordeste,5900,54,9.15,0.584,53.2,Pequeno,Baixa
+2906808,Catolândia,BA,Nordeste,3600,32,8.89,0.612,61.1,Pequeno,Baixa
+3550308,São Paulo,SP,Sudeste,11451245,125963,11.00,0.805,99.1,Grande,Média-Baixa
+3304557,Rio de Janeiro,RJ,Sudeste,6211423,65841,10.60,0.799,100.0,Grande,Média-Baixa
+3106200,Belo Horizonte,MG,Sudeste,2315560,24776,10.70,0.810,100.0,Grande,Média-Baixa
+3205309,Vitória,ES,Sudeste,322874,3551,11.00,0.845,100.0,Grande,Média-Baixa
+3509502,Campinas,SP,Sudeste,1138309,12407,10.90,0.805,98.3,Grande,Média-Baixa
+3549904,São José dos Campos,SP,Sudeste,697428,7811,11.20,0.807,98.2,Grande,Média-Baixa
+3543402,Ribeirão Preto,SP,Sudeste,698259,7890,11.30,0.800,99.7,Grande,Média-Baixa
+3548500,Santos,SP,Sudeste,418608,3725,8.90,0.840,99.8,Grande,Baixa
+3548906,São Carlos,SP,Sudeste,254822,2599,10.20,0.805,96.1,Grande,Média-Baixa
+3170206,Uberlândia,MG,Sudeste,713232,8344,11.70,0.789,97.4,Grande,Média-Baixa
+3136702,Juiz de Fora,MG,Sudeste,540756,5299,9.80,0.778,98.9,Grande,Baixa
+3303302,Niterói,RJ,Sudeste,481758,4335,9.00,0.837,100.0,Grande,Baixa
+3301702,Duque de Caxias,RJ,Sudeste,808152,10425,12.90,0.711,99.6,Grande,Média-Baixa
+3205002,Serra,ES,Sudeste,520653,7132,13.70,0.727,98.9,Grande,Média-Alta
+3507605,Borá,SP,Sudeste,907,7,7.72,0.706,89.2,Pequeno,Baixa
+3166600,Serra da Saudade,MG,Sudeste,833,6,7.20,0.677,92.0,Pequeno,Baixa
+3550605,São Roque de Minas,MG,Sudeste,7100,59,8.31,0.712,66.8,Pequeno,Baixa
+3505708,Barueri,SP,Sudeste,316473,4335,13.70,0.786,100.0,Grande,Média-Alta
+3143302,Montes Claros,MG,Sudeste,414240,5219,12.60,0.770,94.7,Grande,Média-Baixa
+3127701,Governador Valadares,MG,Sudeste,257172,2880,11.20,0.727,95.8,Grande,Média-Baixa
+4106902,Curitiba,PR,Sul,1773733,19156,10.80,0.823,100.0,Grande,Média-Baixa
+4314902,Porto Alegre,RS,Sul,1332570,13458,10.10,0.805,100.0,Grande,Média-Baixa
+4205407,Florianópolis,SC,Sul,537213,5694,10.60,0.847,96.2,Grande,Média-Baixa
+4209102,Joinville,SC,Sul,616323,7519,12.20,0.809,96.6,Grande,Média-Baixa
+4113700,Londrina,PR,Sul,555965,6060,10.90,0.778,97.4,Grande,Média-Baixa
+4115200,Maringá,PR,Sul,409657,4506,11.00,0.808,98.2,Grande,Média-Baixa
+4305108,Caxias do Sul,RS,Sul,463377,5097,11.00,0.782,95.3,Grande,Média-Baixa
+4314407,Pelotas,RS,Sul,325663,3224,9.90,0.739,93.3,Grande,Baixa
+4316907,Santa Maria,RS,Sul,271633,2689,9.90,0.784,95.0,Grande,Baixa
+4202404,Blumenau,SC,Sul,361261,4190,11.60,0.806,95.5,Grande,Média-Baixa
+4204202,Chapecó,SC,Sul,254781,3337,13.10,0.790,91.5,Grande,Média-Alta
+4104808,Cascavel,PR,Sul,348051,4420,12.70,0.782,93.9,Grande,Média-Baixa
+4108304,Foz do Iguaçu,PR,Sul,285415,3824,13.40,0.751,99.1,Grande,Média-Alta
+4322400,União da Serra,RS,Sul,1170,7,5.98,0.744,48.0,Pequeno,Baixa
+4305871,Coqueiro Baixo,RS,Sul,1290,8,6.20,0.752,32.5,Pequeno,Baixa
+4307554,Engenho Velho,RS,Sul,982,6,6.11,0.710,36.0,Pequeno,Baixa
+4218854,Urubici,SC,Sul,10800,89,8.24,0.725,56.4,Pequeno,Baixa
+4127007,Telêmaco Borba,PR,Sul,75042,1035,13.79,0.734,95.8,Médio,Média-Alta
+5300108,Brasília,DF,Centro-Oeste,2817068,37467,13.30,0.824,96.6,Grande,Média-Alta
+5208707,Goiânia,GO,Centro-Oeste,1437237,18971,13.20,0.799,99.6,Grande,Média-Alta
+5002704,Campo Grande,MS,Centro-Oeste,897938,12481,13.90,0.784,98.6,Grande,Média-Alta
+5103403,Cuiabá,MT,Centro-Oeste,650912,9373,14.40,0.785,98.5,Grande,Média-Alta
+5201405,Aparecida de Goiânia,GO,Centro-Oeste,527550,7807,14.80,0.718,99.7,Grande,Média-Alta
+5201108,Anápolis,GO,Centro-Oeste,398817,5264,13.20,0.737,97.4,Grande,Média-Alta
+5108402,Várzea Grande,MT,Centro-Oeste,299472,4492,15.00,0.720,98.6,Grande,Média-Alta
+5107602,Rondonópolis,MT,Centro-Oeste,244897,3746,15.30,0.755,96.4,Grande,Média-Alta
+5003702,Dourados,MS,Centro-Oeste,243368,3601,14.80,0.747,92.6,Grande,Média-Alta
+5107925,Sinop,MT,Centro-Oeste,196094,3392,17.30,0.754,89.9,Grande,Elevada
+5107909,Sorriso,MT,Centro-Oeste,110635,2013,18.20,0.744,86.8,Grande,Elevada
+5218805,Rio Verde,GO,Centro-Oeste,225696,3520,15.60,0.754,92.4,Grande,Média-Alta
+5200258,Águas Lindas de Goiás,GO,Centro-Oeste,225671,3881,17.20,0.659,99.8,Grande,Elevada
+5008305,Três Lagoas,MS,Centro-Oeste,132152,1942,14.70,0.744,96.2,Grande,Média-Alta
+5102504,Campinápolis,MT,Centro-Oeste,15400,334,21.68,0.538,45.2,Pequeno,Elevada
+5200159,Adelândia,GO,Centro-Oeste,2516,24,9.53,0.686,88.0,Pequeno,Baixa
+5200175,Água Limpa,GO,Centro-Oeste,1858,18,9.68,0.692,84.1,Pequeno,Baixa
